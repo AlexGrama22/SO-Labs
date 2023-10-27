@@ -3,5 +3,5 @@
 # Commands
 * Transformation .asm file to .bin
 ```
-nasm -f bin prog.asm -o prog.bin
+nasm -f bin lab.asm -o lab.bin
 ```
